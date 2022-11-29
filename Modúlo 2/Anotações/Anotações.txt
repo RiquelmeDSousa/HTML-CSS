@@ -1,0 +1,11 @@
+Padding: Preenchimento, dando uma engordadinha, Espaço Interno
+Height: Altura
+Width: Largura
+Outline: Contorno
+Margin: Espaço Externo
+
+Tipos de Caixa
+Box-Level: Div, H1, P
+Inline-Level: Span, A, Button
+
+User Agent: Navegador

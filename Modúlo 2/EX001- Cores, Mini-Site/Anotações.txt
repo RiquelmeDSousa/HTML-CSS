@@ -1,0 +1,17 @@
+
+Cores Primarias:
+Azul, Amarelo, Vermelho
+
+Cores Secundárias:
+Laranja, Violeta, Verde
+
+Cores Terciárias
+Amarelo-Alaranjado, Amarelo-Esverdeado e etc... (Obs: Entre o Primeiro e o Segundo)
+
+
+Adobe Color
+
+*{ seletor global
+
+
+

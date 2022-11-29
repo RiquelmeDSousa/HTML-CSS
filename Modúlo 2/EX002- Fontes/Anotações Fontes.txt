@@ -1,0 +1,28 @@
+Use px ou em
+
+16px = tamanho generico
+
+1em = 16px
+font-weigth
+
+weigth = peso
+
+width= largura
+
+height= altura
+
+font-style = italico
+
+text-decoration: underline = sublinhado
+
+font-weight: bold = negrito
+
+font-weight: bolder= negritaço
+
+font: italic bolder 3em "Arial", sans-serif; = abreviado
+
+Text - align, para centralizar e etc...
+
+Text- ident, para paragrafo
+
+

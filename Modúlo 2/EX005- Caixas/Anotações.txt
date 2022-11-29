@@ -1,0 +1,20 @@
+Sempre nessa ordem:
+
+padding-top: 5px 
+
+padding-right: 5px;
+            
+padding-bottom: 5px;
+            
+padding-left: 20px;
+
+margin
+
+margin-auto para centralizar
+
+Cor da margem por fora
+
+            outline-width: 10px;
+            outline-style: dashed;
+            outline-color: salmon;
+

@@ -1,0 +1,8 @@
+Em HTML é id
+Em css é #
+
+Em HTML é class
+Em css é .
+
+id = unico
+class = multiplo

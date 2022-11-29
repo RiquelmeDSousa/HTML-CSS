@@ -1,0 +1,11 @@
+Fomra 1 - Porém Limitada
+
+<audio src="Audio/Japa - ye (320 kbps).mp3" controls autoplay></audio>
+
+Forma 2 - Mais ampla
+
+<audio preload="auto" autoplay controls loop>
+    <source src="Audio/Japa - ye (320 kbps).mp3" type="audio/mpeg">
+</audio>
+
+

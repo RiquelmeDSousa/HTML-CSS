@@ -1,0 +1,8 @@
+target="_blank"
+rel="external">
+para abrir o link em outra aba
+
+../ para voltar de uma pagina dentro de uma pasta para o index por exemplo 
+
+Caso vocês precisem voltar 2, 3, 4 pastas em um link é só continuar usando a sequencias de 
+"../../../arquivo.html" para cada sequencia de ../ o código volta uma página.

@@ -1,0 +1,9 @@
+pseudo-classes são representadas por :
+
+:hover - Ilumina quando passa o mouse em cima
+
+a:visited - site visitado
+
+a"::" pseudos elementos
+
+> Children "Pai-Filho"

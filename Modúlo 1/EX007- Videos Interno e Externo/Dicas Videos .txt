@@ -1,0 +1,43 @@
+__________________________________________________________________________________
+Importante ter os videos em varios formatos, para evitar erros de compatibilidade
+
+M4V
+MP4
+OGV
+WEBM
+___________________________________________________________________________________
+
+Forma Simples, porem não recomendada, pois os navegadores podem não ter suporte
+ <video src="Videos/MeuVideo.mp4" width=400" height="500" controls></video>
+___________________________________________________________________________________
+
+
+
+___________________________________________________________________________________
+
+Forma mais recomendada, pois se adapta ao tipo de navegador
+
+
+<imagens>
+   
+  <source src="Videos/MeuVideo.mp4" type="video/mp4">
+
+</imagens>
+___________________________________________________________________________________
+
+
+___________________________________________________________________________________
+Se usar da primeira forma, o video consumira do seu servidor
+
+Recomendado usar direto do youtube ou vimeo
+
+___________________________________________________________________________________
+
+
+
+
+
+
+
+
+
